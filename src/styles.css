@@ -46,7 +46,6 @@ body {
   line-height: var(--line-height);
 } 
 
-
 a {
   text-decoration: none;
 }
@@ -254,5 +253,3 @@ button:active {
   color: var(--warm); 
   background-color: transparent; 
 }
-
-
