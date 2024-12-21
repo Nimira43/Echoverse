@@ -1,6 +1,0 @@
-{
-  "devDependencies": {
-    "@types/node": "^22.10.2",
-    "@types/validator": "^13.12.2"
-  }
-}
