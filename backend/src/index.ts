@@ -6,3 +6,7 @@ const port = 3000
 app.get('/', (req, res) => {
   res.send('Echoverse')
 })
+
+app.listen(port, () => {
+  console.log(`Server is running on Port ${port} `)
+})
