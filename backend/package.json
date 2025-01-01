@@ -12,6 +12,8 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
+    "@types/node": "^22.10.2",
+    "@types/validator": "^13.12.2",
     "express": "^4.21.2"
   },
   "devDependencies": {
